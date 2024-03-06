@@ -1,6 +1,6 @@
 .navbar {
   background-color: #d1a2a2; /* Navbar background color */
-  height: 50px;
+  height: 70px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,6 +44,7 @@
     left: 250px;
   }
   .mobmenuies img {
+    margin-left: 287px;
     height: 30px;
     width: 40px;
   }
